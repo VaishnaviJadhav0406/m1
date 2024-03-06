@@ -1,0 +1,19 @@
+<html>
+      <head>
+        <title>Absolute</title>
+      </head>
+      <body>
+         
+       <div>
+           <input type="text" value='A'>
+           <input type="text" value='B'>
+      </div>
+       
+
+       <div>
+           <input type="text" value='C'>
+           <input type="text" value='D'>
+      </div>
+     </body>
+</html>
+      
